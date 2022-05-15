@@ -8,7 +8,8 @@ Specific example:
   2. Do elementwise multiplication and summation in new axis
   
 Detailed Explation:
-Explaination.pdf
+Explainations.pdf
 
 Code:
 vectorized_dot_product_loop.py
+bbbbbbb
