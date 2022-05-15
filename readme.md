@@ -12,5 +12,9 @@ Explainations.pdf
 
 Code:
 vectorized_dot_product_loop.py
+<<<<<<< HEAD
 afdasdfsf
 
+=======
+afdasdfsf
+>>>>>>> 4210331943d2b95b9bc4b22814953725e6891db1
