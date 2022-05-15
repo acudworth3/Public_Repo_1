@@ -12,3 +12,4 @@ Explaination.pdf
 
 Code:
 vectorized_dot_product_loop.py
+afdasdfsf
